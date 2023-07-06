@@ -1,0 +1,12 @@
+Digest for health/javacard/Class.cap		[SHA-256: 81c94ea0ddbefe7dc2226c2964754a2826d5388545e0810d94d4f2cebf410e48]
+Digest for health/javacard/StaticField.cap		[SHA-256: eca34e5df523708d9019817e3aafdbdd82dc02092038c62bce0cd85f725f950e]
+Digest for health/javacard/Applet.cap		[SHA-256: 53e9b581705d0319a397456a11fdc3dd426a8dd5ccfe080869100de3b6be51cd]
+Digest for health/javacard/Method.cap		[SHA-256: 99200ec8f79b41b81d0fcfb9783fb7bd1529450b5675bf26a63a3030fc67da3d]
+Digest for health/javacard/Descriptor.cap		[SHA-256: 8d993024b29acb66ded4e3379cef21bbeaab9861298624a36481d51721b4c823]
+Digest for health/javacard/Directory.cap		[SHA-256: 3114e374abea228f51cb1c5c77efb94fb2e14a995a794c1fdb0e92c230a75d21]
+Digest for health/javacard/ConstantPool.cap		[SHA-256: 396352a35b8ad4834d78b73a2e9afd7ea788bfb0be6ee5d083fe631aeed535a1]
+Digest for health/javacard/Debug.cap		[SHA-256: eedba876f95ea7b8750d3ead868c77e1a58d867096102d0e5fc7e40d42d43e4c]
+Digest for health/javacard/Header.cap		[SHA-256: 162d7e8c1e26224bdea268cdd941b7d92563b1594846e0f43db069c34a61c121]
+Digest for health/javacard/RefLocation.cap		[SHA-256: 2cd0430f04a4586cf09cd0cc5ec218be5aba77b4008edf0c459fa592c18f1bd5]
+Digest for health/javacard/Import.cap		[SHA-256: 8cc3642a6d49023dc39aece31584cf15757e6bbcbc1e299514366eae84efce86]
+Verification completed with 0 warnings and 0 errors.

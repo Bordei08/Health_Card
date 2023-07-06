@@ -1,0 +1,12 @@
+// Copyright (c) 1998, 2019, Oracle and/or its affiliates. All rights reserved.
+
+// Applet Selection APDU Script
+//
+// Package:     Health.health
+// Package AID: //aid/A000000063/03010C06
+// Applet:      health.Health
+// Applet AID:  //aid/A000000063/03010C07
+//
+
+// Select health.Health applet
+0x00 0xA4 0x04 0x00 0x09 0xA0 0x00 0x00 0x00 0x63 0x03 0x01 0x0C 0x07 0x7F;

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Health</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>com.oracle.javacard.jcdk.core.projectbuild.JCDKCleanBuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>com.oracle.javacard.jcdk.core.projectbuild.JCDKBuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+		<nature>com.oracle.javacard.jcdk.core.projectbuild.JCDKNature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>jc_api_debug</name>
+			<type>2</type>
+			<location>c:/Program Files (x86)/Oracle/Java Card Development Kit Simulator 3.1.0/custom_build/preprocessed_src</location>
+		</link>
+		<link>
+			<name>jc_installer_debug</name>
+			<type>2</type>
+			<location>c:/Program Files (x86)/Oracle/Java Card Development Kit Simulator 3.1.0/src/installer/src_java</location>
+		</link>
+	</linkedResources>
+</projectDescription>

@@ -1,0 +1,8 @@
+package health;
+
+final class HealthStrings {
+
+    static final byte[] Package = new byte[] {0x68, 0x65, 0x61, 0x6c, 0x74, 0x68, };
+    static final byte[] AppletName = new byte[] {0x48, 0x65, 0x61, 0x6c, 0x74, 0x68, };
+
+}
